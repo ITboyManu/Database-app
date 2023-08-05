@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959245424887",
+    "project_id": "databaselogin-def4a",
+    "storage_bucket": "databaselogin-def4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959245424887:android:abcdae0c29374c21399bf2",
+        "android_client_info": {
+          "package_name": "com.example.databaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959245424887-9b443av0luo8ggmcpdmir20rdpsmg6ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYJne05uDE-8cByI4cUoFfVDpeH65Ecwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959245424887-9b443av0luo8ggmcpdmir20rdpsmg6ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
